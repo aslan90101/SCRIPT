@@ -32,7 +32,7 @@ local Section = ScriptsSection:CreateSection("Blizt crack")
  
  
 local Button = ScriptsSection:CreateButton({
-   Name = "Blizt crack",
+   Name = "Blizt crack👍",
    Callback = function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/aslan90101/blzrcrack/refs/heads/main/ZT.lua'))()
         end,
@@ -89,7 +89,7 @@ local Section = ScriptsSection:CreateSection("Noclip!?")
  
  
 local Button = ScriptsSection:CreateButton({
-   Name = "Noclip | не выключается!",
+   Name = "Noclip | не выключается!😒",
    Callback = function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/aslan90101/p1doras/refs/heads/main/README.lua'))()
         end,
@@ -105,9 +105,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/
 })
  
 local Button = ScriptsSection:CreateButton({
-   Name = "click tp",
+   Name = "CRT+click tp❤️",
    Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/sQDApNWX", true))()
+loadstring(game:HttpGet("https://github.com/aslan90101/click-tp/blob/main/TP.lua", true))()
         end,
 })
  
