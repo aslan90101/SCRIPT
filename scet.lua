@@ -107,7 +107,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/
 local Button = ScriptsSection:CreateButton({
    Name = "CTRL+click tp❤️",
    Callback = function()
-loadstring(game:HttpGet("https://github.com/aslan90101/click-tp/blob/main/TP.lua", true))()
+loadstring(game:HttpGet("https://github.com/aslan90101/ghgh/blob/main/LLL.lua", true))()
         end,
 })
  
