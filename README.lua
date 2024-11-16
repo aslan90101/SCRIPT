@@ -105,9 +105,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/
 })
  
 local Button = ScriptsSection:CreateButton({
-   Name = "soon",
+   Name = "click tp",
    Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/3P65LE1t)", true))()
+loadstring(game:HttpGet("https://pastebin.com/sQDApNWX", true))()
         end,
 })
  
