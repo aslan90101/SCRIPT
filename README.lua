@@ -98,7 +98,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/aslan90101/p1doras/re
 local Section = ScriptsSection:CreateSection("сторонее")
  
 local Button = ScriptsSection:CreateButton({
-   Name = "FLY😍 | не летай долго кикнет",
+   Name = "FLY😍 | не летай долго, кикнет",
    Callback = function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt", true))()
         end,
