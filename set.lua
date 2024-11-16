@@ -105,7 +105,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/
 })
  
 local Button = ScriptsSection:CreateButton({
-   Name = "CTRL+click tp❤️",
+   Name = "soon",
    Callback = function()
 loadstring(game:HttpGet("https://github.com/aslan90101/ghgh/blob/main/LLL.lua", true))()
         end,
@@ -122,5 +122,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Deni210/murdersvssher
  
  
  
-
-
