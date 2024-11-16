@@ -7,7 +7,7 @@ local Window = Rayfield:CreateWindow({
    ConfigurationSaving = {
       Enabled = false,
       FolderName = nil, -- Create a custom folder for your hub/game
-      FileName = "Example Hub"
+      FileName = "Ftap Hub"
    },
    Discord = {
       Enabled = false,
